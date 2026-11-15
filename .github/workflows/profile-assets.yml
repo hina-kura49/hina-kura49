@@ -11,7 +11,7 @@ on:
     - cron: "17 0 * * *" # daily
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [main, feat/snake-top-stats-mascots] # TEMP: verify before merge
 
 permissions:
   contents: write
