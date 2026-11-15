@@ -6,6 +6,13 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/github-snake.svg" alt="Contribution graph animation">
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C4552A&center=true&vCenter=true&width=640&lines=Software+Engineer+%C2%B7+Vulnerability+Researcher;Contributor+to+the+Rust+compiler+(rustc);Building+liwin%3A+i3-style+tiling+for+GNOME" alt="Software Engineer · Vulnerability Researcher · Contributor to the Rust compiler">
   </a>
@@ -72,14 +79,29 @@ Certified hacker by the Japan Hacker Association. Experience with web penetratio
   <img src="https://skillicons.dev/icons?i=rust,ts,python,go,nextjs,swift,fastapi,postgres,linux,git,githubactions&perline=11" alt="Rust, TypeScript, Python, Go, Next.js, Swift, FastAPI, PostgreSQL, Linux, Git, GitHub Actions">
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/mascots-dark.svg">
+    <img src="assets/mascots-light.svg" alt="Tux, the Go Gopher and Ferris standing together" width="600">
+  </picture>
+  <br>
+  <sub>
+    Tux by Larry Ewing (lewing@isc.tamu.edu) and The GIMP, vector by Garrett LeSage and IFo Hancroft (CC0) ·
+    Go Gopher designed by Renée French, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, vector by Egon Elbre (CC0) ·
+    Ferris by Karen Rustad Tölva (CC0) ·
+    arranged into one image for this profile; see <a href="assets/LICENSES.md">assets/LICENSES.md</a>
+  </sub>
+</p>
+
 ## Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hina-kura49&show_icons=true&hide_border=true&theme=transparent&title_color=C4552A&icon_color=C4552A" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hina-kura49&layout=compact&hide_border=true&theme=transparent&title_color=C4552A" alt="Top languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/stats-dark.svg">
+    <img height="170" src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/stats.svg" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/top-langs-dark.svg">
+    <img height="170" src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/top-langs.svg" alt="Top languages">
+  </picture>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/github-snake.svg" alt="Contribution graph animation">
-</picture>
