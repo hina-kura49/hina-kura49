@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
-    <img src="assets/logo-light.svg" alt="h.kurashina" width="680">
+    <img src="assets/logo-light.svg" alt="h.kurashina" width="720">
   </picture>
 </p>
 
