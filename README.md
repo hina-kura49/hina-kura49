@@ -25,7 +25,7 @@ and I spend the rest of my time on **Rust, open source and security research**.
 
 - 🦀 Contributor to the Rust compiler (rustc)
 - 🌱 Focusing on contributing to existing open source, including the Rust ecosystem and RustSec
-- 🛡️ Rewriting C libraries in Rust for memory safety, as part of kura-rs
+- 🛡️ Rewriting C libraries in Rust for memory safety, as part of kura-rs: [kura-rs/cjson](https://github.com/kura-rs/cjson) is a hand-written Rust port of cJSON
 - 🔐 Vulnerability researcher: I find issues in open-source software, report them to the maintainers and help get fixes published
 - 🪟 Currently building [**liwin**](https://github.com/hina-kura49/liwin), an AeroSpace-like tiling window manager for GNOME on Wayland
 - 🔭 Interested in AI & web security testing, low-level systems, infrastructure and competitive programming
@@ -60,7 +60,7 @@ Certified hacker by the Japan Hacker Association. Experience with web penetratio
 | [liwin](https://github.com/hina-kura49/liwin) | AeroSpace-like tiling for GNOME on Wayland: a Rust daemon plus a thin GNOME Shell extension | Rust, TypeScript |
 | [Jot](https://github.com/hina-kura49/jot) | macOS note-taking app that keeps notes as plain Markdown files in a vault folder: Notion-style block editing, slash commands, quick capture and Google Calendar sync | Tauri 2, Rust, TypeScript |
 | [git-trail](https://github.com/h-kurashina/git-trail) | Local CLI that reconstructs the history of a Git worktree as timestamped checkpoints; `cargo install git-trail` | Rust |
-| [kura-rs](https://www.kura-rs.com/) | Copy-paste Rust components with evidence: AI data processing and security building blocks, each with differential tests and benchmarks. Also rewriting C libraries in Rust for memory safety | Rust, TypeScript |
+| [kura-rs](https://www.kura-rs.com/) | Copy-paste Rust components with evidence: AI data processing and security building blocks, each with differential tests and benchmarks. Also rewriting C libraries in Rust for memory safety, starting with [kura-rs/cjson](https://github.com/kura-rs/cjson), a hand-written Rust port of cJSON | Rust, TypeScript |
 | [SortedMultiset for Rust](https://github.com/h-kurashina/sorted-multiset-rs) | Sorted multiset for competitive programming; std only, no `unsafe`, about 10–13× faster than the Python original | Rust |
 | [Tadori](https://github.com/h-kurashina/tadori) | Learning-roadmap app that links technical and business books by order and outcomes | Expo, React Native |
 | Wryte | Technical writing and knowledge-sharing service | React, FastAPI, PostgreSQL |
