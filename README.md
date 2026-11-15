@@ -75,6 +75,20 @@ Certified hacker by the Japan Hacker Association. Experience with web penetratio
   <img src="https://skillicons.dev/icons?i=rust,ts,python,go,react,nextjs,swift,fastapi,postgres,linux,git,githubactions&perline=12" alt="Rust, TypeScript, Python, Go, React, Next.js, Swift, FastAPI, PostgreSQL, Linux, Git, GitHub Actions">
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/mascots-dark.svg">
+    <img src="assets/mascots-light.svg" alt="Tux, the Go Gopher and Ferris standing together" width="600">
+  </picture>
+  <br>
+  <sub>
+    Tux by Larry Ewing (lewing@isc.tamu.edu) and The GIMP, vector by Garrett LeSage and IFo Hancroft (CC0) ·
+    Go Gopher designed by Renée French, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, vector by Egon Elbre (CC0) ·
+    Ferris by Karen Rustad Tölva (CC0) ·
+    arranged into one image for this profile; see <a href="assets/LICENSES.md">assets/LICENSES.md</a>
+  </sub>
+</p>
+
 ## Stats
 
 <p>
