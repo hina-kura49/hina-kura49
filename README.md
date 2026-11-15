@@ -69,7 +69,7 @@ Certified hacker by the Japan Hacker Association. Experience with web penetratio
 ## Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,ts,python,go,react,nextjs,swift,fastapi,postgres,linux,git,githubactions&perline=12" alt="Rust, TypeScript, Python, Go, React, Next.js, Swift, FastAPI, PostgreSQL, Linux, Git, GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=rust,ts,python,go,nextjs,swift,fastapi,postgres,linux,git,githubactions&perline=11" alt="Rust, TypeScript, Python, Go, Next.js, Swift, FastAPI, PostgreSQL, Linux, Git, GitHub Actions">
 </p>
 
 ## Stats
