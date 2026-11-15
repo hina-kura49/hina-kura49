@@ -59,12 +59,12 @@ Certified hacker by the Japan Hacker Association. Experience with web penetratio
 | [Beaulab](https://beaulab.jp) | Social platform for beauty clinics: discover clinics through reviews and posts, then book and message them | Next.js, React Native / Expo |
 | [liwin](https://github.com/hina-kura49/liwin) | AeroSpace-like tiling for GNOME on Wayland: a Rust daemon plus a thin GNOME Shell extension | Rust, TypeScript |
 | [Jot](https://github.com/hina-kura49/jot) | macOS note-taking app that keeps notes as plain Markdown files in a vault folder: Notion-style block editing, slash commands, quick capture and Google Calendar sync | Tauri 2, Rust, TypeScript |
-| [git-trail](https://github.com/h-kurashina/git-trail) | Local CLI that reconstructs the history of a Git worktree as timestamped checkpoints; `cargo install git-trail` | Rust |
+| [git-trail](https://github.com/hina-kura49/git-trail) | Local CLI that reconstructs the history of a Git worktree as timestamped checkpoints; `cargo install git-trail` | Rust |
 | [kura-rs](https://www.kura-rs.com/) | Copy-paste Rust components with evidence: AI data processing and security building blocks, each with differential tests and benchmarks. Also rewriting C libraries in Rust for memory safety, starting with [kura-rs/cjson](https://github.com/kura-rs/cjson), a hand-written Rust port of cJSON | Rust, TypeScript |
-| [SortedMultiset for Rust](https://github.com/h-kurashina/sorted-multiset-rs) | Sorted multiset for competitive programming; std only, no `unsafe`, about 10–13× faster than the Python original | Rust |
-| [Tadori](https://github.com/h-kurashina/tadori) | Learning-roadmap app that links technical and business books by order and outcomes | Expo, React Native |
+| [SortedMultiset for Rust](https://github.com/hina-kura49/sorted-multiset-rs) | Sorted multiset for competitive programming; std only, no `unsafe`, about 10–13× faster than the Python original | Rust |
+| [Tadori](https://github.com/hina-kura49/tadori) | Learning-roadmap app that links technical and business books by order and outcomes | Expo, React Native |
 | Wryte | Technical writing and knowledge-sharing service | React, FastAPI, PostgreSQL |
-| [sta.](https://github.com/h-kurashina/sta.) | Document scanner for students that files scans straight into subjects | SwiftUI, VisionKit |
+| [sta.](https://github.com/hina-kura49/sta.) | Document scanner for students that files scans straight into subjects | SwiftUI, VisionKit |
 
 ## Tech
 
