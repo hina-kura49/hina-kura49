@@ -24,7 +24,6 @@ query($login: String!, $cursor: String) {
   user(login: $login) {
     followers { totalCount }
     pullRequests { totalCount }
-    mergedPullRequests: pullRequests(states: MERGED) { totalCount }
     issues { totalCount }
     contributionsCollection { totalCommitContributions }
     repositoriesContributedTo(
@@ -82,7 +81,6 @@ def fetch(login, token):
         ("Stars earned", sum(r["stargazerCount"] for r in repos)),
         ("Commits (last year)", user["contributionsCollection"]["totalCommitContributions"]),
         ("Pull requests", user["pullRequests"]["totalCount"]),
-        ("Merged pull requests", user["mergedPullRequests"]["totalCount"]),
         ("Issues", user["issues"]["totalCount"]),
         ("Contributed to (last year)", user["repositoriesContributedTo"]["totalCount"]),
     ]
@@ -114,7 +112,7 @@ def stats_card(stats, t):
         + "".join(rows)
         + "</g>"
     )
-    return svg(356, 190, "GitHub stats", body)
+    return svg(356, 32 + 22 * len(stats) + 28, "GitHub stats", body)
 
 
 def langs_card(top, t):
@@ -143,7 +141,7 @@ def langs_card(top, t):
         + "".join(items)
         + "</g>"
     )
-    return svg(340, 190, "Top languages", body)
+    return svg(340, 170, "Top languages", body)
 
 
 def main():
