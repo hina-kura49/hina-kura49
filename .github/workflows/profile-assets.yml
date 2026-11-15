@@ -27,17 +27,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Generate stats cards
+        run: python3 scripts/profile_stats.py "${{ github.repository_owner }}" dist/stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # snk runs in a root container, so it comes after the runner has created dist/
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Generate stats cards
-        run: python3 scripts/profile_stats.py "${{ github.repository_owner }}" dist/stats
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Check that every file was generated
         run: |
