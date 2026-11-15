@@ -6,6 +6,13 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/github-snake.svg" alt="Contribution graph animation">
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C4552A&center=true&vCenter=true&width=640&lines=Software+Engineer+%C2%B7+Vulnerability+Researcher;Contributor+to+the+Rust+compiler+(rustc);Building+liwin%3A+i3-style+tiling+for+GNOME" alt="Software Engineer · Vulnerability Researcher · Contributor to the Rust compiler">
   </a>
@@ -71,11 +78,12 @@ Certified hacker by the Japan Hacker Association. Experience with web penetratio
 ## Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hina-kura49&show_icons=true&hide_border=true&theme=transparent&title_color=C4552A&icon_color=C4552A" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hina-kura49&layout=compact&hide_border=true&theme=transparent&title_color=C4552A" alt="Top languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/stats-dark.svg">
+    <img height="170" src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/stats.svg" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/top-langs-dark.svg">
+    <img height="170" src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/top-langs.svg" alt="Top languages">
+  </picture>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/github-snake.svg" alt="Contribution graph animation">
-</picture>
