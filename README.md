@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="h.kurashina — Software Engineer · Vulnerability Researcher" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <img src="assets/banner-light.png" alt="h.kurashina — Software Engineer · Vulnerability Researcher" width="100%">
+  </picture>
 </p>
 
 <p align="center">
