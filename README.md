@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img src="assets/banner-light.png" alt="h.kurashina — Rust · White-hat hacker (a chess knight wearing a white hat)" width="100%">
+    <img src="assets/banner-light.png" alt="h.kurashina — a chess knight wearing a white hat" width="100%">
   </picture>
 </p>
 
