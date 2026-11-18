@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img src="assets/banner-light.png" alt="h.kurashina — Software Engineer · Vulnerability Researcher" width="100%">
+    <img src="assets/banner-light.png" alt="h.kurashina — Rust · White-hat hacker (a chess knight wearing a white hat)" width="100%">
   </picture>
 </p>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C4552A&center=true&vCenter=true&width=640&lines=Software+Engineer+%C2%B7+Vulnerability+Researcher;Contributor+to+the+Rust+compiler+(rustc);Building+liwin%3A+i3-style+tiling+for+GNOME" alt="Software Engineer · Vulnerability Researcher · Contributor to the Rust compiler">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C4552A&center=true&vCenter=true&width=640&lines=Rust+Engineer+%C2%B7+White-hat+Hacker;Contributor+to+the+Rust+compiler+(rustc);Building+liwin%3A+i3-style+tiling+for+GNOME" alt="Rust Engineer · White-hat Hacker · Contributor to the Rust compiler">
   </a>
 </p>
 
@@ -26,26 +26,27 @@
 
 ## Hi! I'm h.kurashina
 
-Software Engineer / Vulnerability Researcher / Business Lead.
-I lead a startup's product, **Beaulab**, as both engineer and business owner,
-and I spend the rest of my time on **Rust, open source and security research**.
+Rust engineer and white-hat hacker.
+By day I build a startup's product as both engineer and business owner;
+the rest of my time goes into **Rust, open source and responsible security research**.
 
 - 🦀 Contributor to the Rust compiler (rustc)
 - 🌱 Focusing on contributing to existing open source, including the Rust ecosystem and RustSec
 - 🛡️ Rewriting C libraries in Rust for memory safety, as part of kura-rs: [kura-rs/cjson](https://github.com/kura-rs/cjson) is a hand-written Rust port of cJSON
-- 🔐 Vulnerability researcher: I find issues in open-source software, report them to the maintainers and help get fixes published
+- 🎩 White-hat hacker: I find vulnerabilities in open-source software, report them privately to the maintainers and help get fixes and advisories published
 - 🪟 Currently building [**liwin**](https://github.com/hina-kura49/liwin), an AeroSpace-like tiling window manager for GNOME on Wayland
 - 🔭 Interested in AI & web security testing, low-level systems, infrastructure and competitive programming
-- ♟️ Off the keyboard: chess and Hack The Box
+- ♟️ Off the keyboard: chess and reading
 
 ## Open source
 
 | When | Contribution | Where | Status |
 |---|---|---|---|
+| 2026-11 | Reported four ways to cause undefined behavior from safe code in `yaxpeax-x86` (fixed upstream in 2.2.1) and filed a RustSec advisory | [rustsec/advisory-db#3578](https://github.com/rustsec/advisory-db/pull/3578) | In review |
 | 2026-11 | Reported a missing safety condition in the `Searcher` contract that `str::split` relies on; fixed by another contributor in rust-lang/rust#165681 | [rust-lang/rust#164904](https://github.com/rust-lang/rust/issues/164904) | Resolved |
 | 2026-10 | Don't suggest replacing foreign format specifiers in `concat!` output | [rust-lang/rust#163371](https://github.com/rust-lang/rust/pull/163371) | Merged |
 | 2026-10 | Don't build format string suggestions from `concat!` offsets (fixes an ICE) | [rust-lang/rust#163368](https://github.com/rust-lang/rust/pull/163368) | Merged |
-| 2026-10 | Add regression tests for #164253 | [rust-lang/rust#164910](https://github.com/rust-lang/rust/pull/164910) | In review |
+| 2026-10 | Add regression tests for #164253 | [rust-lang/rust#164910](https://github.com/rust-lang/rust/pull/164910) | Merged |
 | 2026-09 | Output test binary to the temporary directory in `test-expand.sh` | [rust-lang-ja/ac-library-rs#183](https://github.com/rust-lang-ja/ac-library-rs/pull/183) | In review |
 | 2026-09 | Avoid cloning cached test item names in `is_in_test` | [rust-lang/rust-clippy#17774](https://github.com/rust-lang/rust-clippy/pull/17774) | In review |
 
@@ -63,7 +64,6 @@ Certified hacker by the Japan Hacker Association. Experience with web penetratio
 
 | Project | What it is | Tech |
 |---|---|---|
-| [Beaulab](https://beaulab.jp) | Social platform for beauty clinics: discover clinics through reviews and posts, then book and message them | Next.js, React Native / Expo |
 | [liwin](https://github.com/hina-kura49/liwin) | AeroSpace-like tiling for GNOME on Wayland: a Rust daemon plus a thin GNOME Shell extension | Rust, TypeScript |
 | [Jot](https://github.com/hina-kura49/jot) | macOS note-taking app that keeps notes as plain Markdown files in a vault folder: Notion-style block editing, slash commands, quick capture and Google Calendar sync | Tauri 2, Rust, TypeScript |
 | [git-trail](https://github.com/hina-kura49/git-trail) | Local CLI that reconstructs the history of a Git worktree as timestamped checkpoints; `cargo install git-trail` | Rust |
