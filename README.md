@@ -21,19 +21,21 @@
 <p align="center">
   <a href="https://hina-kura49.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://x.com/hkurashina49"><img src="https://img.shields.io/badge/X-@hkurashina49-111?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="mailto:h.kurashina49@gmail.com"><img src="https://img.shields.io/badge/Email-h.kurashina49%40gmail.com-C4552A?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=hina-kura49&style=flat-square&color=C4552A&label=Profile+views" alt="Profile views">
 </p>
 
 ## Hi! I'm h.kurashina
 
-Rust engineer and white-hat hacker.
+Rust engineer and **freelance white-hat hacker**.
 By day I build a startup's product as both engineer and business owner;
 the rest of my time goes into **Rust, open source and responsible security research**.
 
 - 🦀 Contributor to the Rust compiler (rustc)
 - 🌱 Focusing on contributing to existing open source, including the Rust ecosystem and RustSec
 - 🛡️ Rewriting C libraries in Rust for memory safety, as part of kura-rs: [kura-rs/cjson](https://github.com/kura-rs/cjson) is a hand-written Rust port of cJSON
-- 🎩 White-hat hacker: I find vulnerabilities in open-source software, report them privately to the maintainers and help get fixes and advisories published
+- 🎩 White-hat hacker (freelance): I take on security assessments and penetration testing, and in open source I report vulnerabilities privately to the maintainers and help get fixes and advisories published
+- 📫 Work inquiries: [h.kurashina49@gmail.com](mailto:h.kurashina49@gmail.com)
 - 🪟 Currently building [**liwin**](https://github.com/hina-kura49/liwin), an AeroSpace-like tiling window manager for GNOME on Wayland
 - 🔭 Interested in AI & web security testing, low-level systems, infrastructure and competitive programming
 - ♟️ Off the keyboard: chess and reading
