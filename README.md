@@ -57,13 +57,13 @@ Unofficial fork of [ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs
 ## 🏢 Organizations
 
 ### 📦 [kura-rs](https://github.com/kura-rs)
-Copy-paste Rust components with evidence, each with differential tests and benchmarks. Home of [cjson](https://github.com/kura-rs/cjson), a hand-written Rust port of cJSON.
+Rewriting C and C++ libraries in Rust to remove memory-safety vulnerabilities, with differential tests against the original. Home of [cjson](https://github.com/kura-rs/cjson), a hand-written Rust port of cJSON.
 
 ### 🛡️ [RustSecJP](https://github.com/RustSecJP)
 Unofficial Japanese community for Rust security: Japanese translations of the [ANSSI Secure Rust Guidelines](https://github.com/RustSecJP/rust-guide-ja), [cargo-vet](https://github.com/RustSecJP/cargo-vet-ja) and [Trusted Publishing](https://github.com/RustSecJP/trusted-publishing-ja) docs, plus notes on Rust supply-chain incidents. Not affiliated with RustSec or the Rust Project.
 
 ### ➖ [Minus-One](https://github.com/0xFF-MinusOne)
-Security team building tools for penetration testing work, including [Pentest Dashboard](https://github.com/0xFF-MinusOne/Minus-One), a vulnerability-management dashboard for small teams.
+Independent white-hat initiative: vulnerability response that does not depend on private companies. Builds its own tools, including [Pentest Dashboard](https://github.com/0xFF-MinusOne/Minus-One), a vulnerability-management dashboard for small teams.
 
 ## 📊 Track record
 
