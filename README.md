@@ -38,8 +38,8 @@ Certified hacker by the Japan Hacker Association. Off the keyboard: chess and re
 ### 🪟 [liwin](https://github.com/hina-kura49/liwin)
 AeroSpace-like tiling window manager for GNOME on Wayland: a Rust daemon plus a thin GNOME Shell extension. *Currently building.*
 
-### 📝 [Jot](https://github.com/hina-kura49/jot)
-macOS note-taking app that keeps notes as plain Markdown files: Notion-style block editing, slash commands, quick capture and Google Calendar sync.
+### 📊 [ccbar](https://github.com/hina-kura49/ccbar)
+Tiny Rust tool that shows Claude Code's 5-hour and 7-day usage in the macOS menu bar and notifies you when a limit resets. No daemon and no API calls: it reads only the status line JSON.
 
 <details>
 <summary>More projects</summary>
