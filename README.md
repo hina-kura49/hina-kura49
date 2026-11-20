@@ -57,7 +57,7 @@ Unofficial fork of [ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs
 ## 🏢 Organizations
 
 ### 📦 [kura-rs](https://github.com/kura-rs)
-Copy-paste Rust components with evidence, each with differential tests and benchmarks. Home of [cjson](https://github.com/kura-rs/cjson), a hand-written Rust port of cJSON. Site: [kura-rs.com](https://www.kura-rs.com/)
+Copy-paste Rust components with evidence, each with differential tests and benchmarks. Home of [cjson](https://github.com/kura-rs/cjson), a hand-written Rust port of cJSON.
 
 ### 🛡️ [RustSecJP](https://github.com/RustSecJP)
 Unofficial Japanese community for Rust security: Japanese translations of the [ANSSI Secure Rust Guidelines](https://github.com/RustSecJP/rust-guide-ja), [cargo-vet](https://github.com/RustSecJP/cargo-vet-ja) and [Trusted Publishing](https://github.com/RustSecJP/trusted-publishing-ja) docs, plus notes on Rust supply-chain incidents. Not affiliated with RustSec or the Rust Project.
