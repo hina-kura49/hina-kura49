@@ -41,6 +41,9 @@ AeroSpace-like tiling window manager for GNOME on Wayland: a Rust daemon plus a 
 ### 📊 [ccbar](https://github.com/hina-kura49/ccbar)
 Tiny Rust tool that shows Claude Code's 5-hour and 7-day usage in the macOS menu bar and notifies you when a limit resets. No daemon and no API calls: it reads only the status line JSON.
 
+### 🧮 [acl-rust](https://github.com/hina-kura49/acl-rust)
+Unofficial fork of [ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs), the Rust port of AtCoder Library (ACL), adding differential tests against reference implementations. *Just started.*
+
 <details>
 <summary>More projects</summary>
 
