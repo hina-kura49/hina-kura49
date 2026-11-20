@@ -41,12 +41,6 @@ AeroSpace-like tiling window manager for GNOME on Wayland: a Rust daemon plus a 
 ### 📝 [Jot](https://github.com/hina-kura49/jot)
 macOS note-taking app that keeps notes as plain Markdown files: Notion-style block editing, slash commands, quick capture and Google Calendar sync.
 
-### 🧭 [git-trail](https://github.com/hina-kura49/git-trail)
-Local CLI that reconstructs the history of a Git worktree as timestamped checkpoints. `cargo install git-trail`
-
-### 📦 [kura-rs](https://www.kura-rs.com/)
-Copy-paste Rust components with evidence, each with differential tests and benchmarks. Includes [kura-rs/cjson](https://github.com/kura-rs/cjson), a hand-written Rust port of cJSON.
-
 <details>
 <summary>More projects</summary>
 
@@ -56,6 +50,17 @@ Copy-paste Rust components with evidence, each with differential tests and bench
 - [sta.](https://github.com/hina-kura49/sta.): document scanner for students that files scans straight into subjects
 
 </details>
+
+## 🏢 Organizations
+
+### 📦 [kura-rs](https://github.com/kura-rs)
+Copy-paste Rust components with evidence, each with differential tests and benchmarks. Home of [cjson](https://github.com/kura-rs/cjson), a hand-written Rust port of cJSON. Site: [kura-rs.com](https://www.kura-rs.com/)
+
+### 🛡️ [RustSecJP](https://github.com/RustSecJP)
+Unofficial Japanese community for Rust security: Japanese translations of the [ANSSI Secure Rust Guidelines](https://github.com/RustSecJP/rust-guide-ja), [cargo-vet](https://github.com/RustSecJP/cargo-vet-ja) and [Trusted Publishing](https://github.com/RustSecJP/trusted-publishing-ja) docs, plus notes on Rust supply-chain incidents. Not affiliated with RustSec or the Rust Project.
+
+### ➖ [Minus-One](https://github.com/0xFF-MinusOne)
+Security team building tools for penetration testing work, including [Pentest Dashboard](https://github.com/0xFF-MinusOne/Minus-One), a vulnerability-management dashboard for small teams.
 
 ## 📊 Track record
 
