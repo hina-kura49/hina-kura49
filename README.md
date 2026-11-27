@@ -1,85 +1,22 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img src="assets/banner-light.png" alt="h.kurashina — a chess knight wearing a white hat" width="100%">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/github-snake.svg" alt="Contribution graph animation">
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=C4552A&center=true&vCenter=true&width=640&lines=Rust+Engineer+%C2%B7+White-hat+Hacker;Contributor+to+the+Rust+compiler+(rustc);Building+liwin%3A+i3-style+tiling+for+GNOME" alt="Rust Engineer · White-hat Hacker · Contributor to the Rust compiler">
+  <a href="https://hina-kura49.github.io/portfolio/">
+    <img src="assets/portfolio.png" alt="h.kurashina — Full-Stack Engineer for a More Secure Internet. Click to open the portfolio." width="100%">
   </a>
 </p>
 
+<h3 align="center">Full-stack engineer and security researcher.</h3>
+
 <p align="center">
-  <a href="https://hina-kura49.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="https://x.com/hkurashina49"><img src="https://img.shields.io/badge/X-@hkurashina49-111?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-  <a href="mailto:h.kurashina49@gmail.com"><img src="https://img.shields.io/badge/Email-h.kurashina49%40gmail.com-C4552A?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=hina-kura49&style=flat-square&color=C4552A&label=Profile+views" alt="Profile views">
+  Vulnerability research, penetration testing, Rust tools and open source —<br>
+  everything is on my portfolio.
 </p>
 
-## Hi! I'm h.kurashina
+<p align="center">
+  <a href="https://hina-kura49.github.io/portfolio/"><img src="https://img.shields.io/badge/Open%20my%20portfolio%20%E2%86%92-1A73E8?style=for-the-badge" alt="Open my portfolio"></a>
+</p>
 
-Rust engineer and **freelance white-hat hacker**. I contribute to the Rust compiler and the Rust ecosystem,
-rewrite C libraries in Rust for memory safety, and report vulnerabilities privately to maintainers.
-Certified hacker by the Japan Hacker Association. Off the keyboard: chess and reading.
-
-📫 Work inquiries (security assessments, penetration testing): [h.kurashina49@gmail.com](mailto:h.kurashina49@gmail.com)
-
-## 🚀 Projects
-
-### 🪟 [liwin](https://github.com/hina-kura49/liwin)
-AeroSpace-like tiling window manager for GNOME on Wayland: a Rust daemon plus a thin GNOME Shell extension. *Currently building.*
-
-### 📊 [ccbar](https://github.com/hina-kura49/ccbar)
-Tiny Rust tool that shows Claude Code's 5-hour and 7-day usage in the macOS menu bar and notifies you when a limit resets. No daemon and no API calls: it reads only the status line JSON.
-
-### 🧮 [acl-rust](https://github.com/hina-kura49/acl-rust)
-Unofficial fork of [ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs), the Rust port of AtCoder Library (ACL), adding differential tests against reference implementations. *Just started.*
-
-<details>
-<summary>More projects</summary>
-
-- [SortedMultiset for Rust](https://github.com/hina-kura49/sorted-multiset-rs): sorted multiset for competitive programming; std only, no `unsafe`, about 10–13× faster than the Python original
-- [Tadori](https://github.com/hina-kura49/tadori): learning-roadmap app that links technical and business books by order and outcomes
-- Wryte: technical writing and knowledge-sharing service
-- [sta.](https://github.com/hina-kura49/sta.): document scanner for students that files scans straight into subjects
-
-</details>
-
-## 🏢 Organizations
-
-### 📦 [kura-rs](https://github.com/kura-rs)
-Rewriting C and C++ libraries in Rust to remove memory-safety vulnerabilities, with differential tests against the original. Home of [cjson](https://github.com/kura-rs/cjson), a hand-written Rust port of cJSON.
-
-### 🛡️ [RustSecJP](https://github.com/RustSecJP)
-Unofficial Japanese community for Rust security: Japanese translations of the [ANSSI Secure Rust Guidelines](https://github.com/RustSecJP/rust-guide-ja), [cargo-vet](https://github.com/RustSecJP/cargo-vet-ja) and [Trusted Publishing](https://github.com/RustSecJP/trusted-publishing-ja) docs, plus notes on Rust supply-chain incidents. Not affiliated with RustSec or the Rust Project.
-
-### ➖ [Minus-One](https://github.com/0xFF-MinusOne)
-Independent white-hat initiative: vulnerability response that does not depend on private companies. Builds its own tools, including [Pentest Dashboard](https://github.com/0xFF-MinusOne/Minus-One), a vulnerability-management dashboard for small teams.
-
-## 📊 Track record
-
-| 🦀 Open source contributions | 🛡️ CVEs |
-|:---:|:---:|
-| **7**<br><sub>rust-lang/rust, rust-clippy, RustSec, ac-library-rs</sub> | **3**<br><sub>1 Critical · 1 High · 1 Medium</sub> |
-
-## Stats
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/stats-dark.svg">
-    <img height="170" src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/stats.svg" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/top-langs-dark.svg">
-    <img height="170" src="https://raw.githubusercontent.com/hina-kura49/hina-kura49/output/stats/top-langs.svg" alt="Top languages">
-  </picture>
+<p align="center">
+  <a href="https://hina-kura49.github.io/portfolio/ja/">日本語</a> ·
+  <a href="mailto:h.kurashina49@gmail.com">h.kurashina49@gmail.com</a> ·
+  <a href="https://x.com/hkurashina49">X @hkurashina49</a>
 </p>
